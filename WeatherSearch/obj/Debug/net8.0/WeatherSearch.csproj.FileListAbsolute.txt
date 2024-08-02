@@ -1,0 +1,17 @@
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\bin\Debug\net8.0\WeatherSearch.exe
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\bin\Debug\net8.0\WeatherSearch.deps.json
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\bin\Debug\net8.0\WeatherSearch.runtimeconfig.json
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\bin\Debug\net8.0\WeatherSearch.dll
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\bin\Debug\net8.0\WeatherSearch.pdb
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.csproj.AssemblyReference.cache
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.AssemblyInfoInputs.cache
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.AssemblyInfo.cs
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherS.7645D0AC.Up2Date
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.dll
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\refint\WeatherSearch.dll
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.pdb
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\WeatherSearch.genruntimeconfig.cache
+C:\Users\Jeff\Documents\estudos\c#\WeatherSearch\WeatherSearch\WeatherSearch\obj\Debug\net8.0\ref\WeatherSearch.dll
